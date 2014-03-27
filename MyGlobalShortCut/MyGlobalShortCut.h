@@ -1,7 +1,7 @@
 
 // Qt 升级到5.x版本后
 // QAbstractEventDispatcher 中函数发生变动
-// 导致qxtlib库中的qxtGlobalShortcut失效
+// 导致libqxt库中的qxtGlobalShortcut挂掉
 // 参考qxtGlobalShortcut写了一个全局热键类
 // 用法与qxtGlobalShortcut一致
 // 在 Win8.1 + Qt5.11 下能正常使用
