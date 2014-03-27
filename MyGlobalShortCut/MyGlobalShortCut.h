@@ -4,7 +4,7 @@
 // 导致qxtlib库中的qxtGlobalShortcut失效
 // 参考qxtGlobalShortcut写了一个全局热键类
 // 用法与qxtGlobalShortcut一致
-// 由于水平有限,程序中可能存在各种Bug
+// 在 Win8.1 + Qt5.11 下能正常使用
 // by 迷路君 2014.03.27
 
 #pragma once
